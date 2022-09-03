@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+html {
+  background: rgb(71, 203, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(35, 175, 232, 1) 0%,
+    rgba(131, 182, 246, 1) 44%,
+    rgb(129, 217, 252) 100%
+  );
+}
